@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "manajemen-solar",
+  "private_key_id": "d92075eb6f31103f5dec98892ecb865652eec1eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5mlc+9xr4z8Jd\nPvCD73/QvAR/HYFG/RXkhRHOjKB5Mx0gvHQ9lduPqlEzHXhQF70/I+iWDXVSSOV+\nuVX4C4P0WO11CSgdc5g3fXlBssG6ee7tkqg1nTJ3FUiGsfezyQepOvi9velWHx+1\nHtPd0hHwmL43IzHA0UvIHIRhxHreXzNtVBdmWMOiz5RarOQAK8xiPqCrWK/z5QCR\nlMforveFoYCEJB+Md2E2hNNK26ZEBt9dyrVHBLuLsx25yxhTEHdrvqapPpRxC59a\nd4fM2Q5jNjKX6WoZrJg3LI9rN9IeniUrbnsULMPRtDEpdMAk7CzhIBciYAxeHSee\ncs2ymNtjAgMBAAECggEAA2e1j1hiPIKAat7RGGKRQj52iKfq/ecQVmcGTPdNFq5v\nvgLwPrlKCtqj3JaRd29G6zO0PFPyKt06gltRrs8Y/XCRFY6rhT0XLOYEV9jdgbwa\nhZJJ4HTKNbryKOcJGiKnZorIN1byHneVSLHivHmXF2HZb4li1RNrEbhwN1Ics9Ku\nlnrEZCdTVodQlGLsyO2wUqD+pGI5m1zTA+Yx64b6mEfFwWJ5qARenr8ji9x/YYKL\nXYpo1PX2LYlix1nv1bJRcKv+1LY/SaVvrwpYwwi/B0fVXns6MDexiBAQTlodhK7U\nnQUC3QUTILi5Fy1oOqBAFHJje4nvcJqQBkaO+MzU/QKBgQDjjOs10u/xvUkDuVYB\nyqs5XWLLTB1Uqb+i5AQMlAbke0Ki8OaKVOlESaQr30+Yt2cotu87Agu3u2CWAdQ4\n89QpAZ2XGnaWEPvEXhd+NoqEcIpe8q+mDzOaVrYa4XvQ9CEMr8wohERufwDF6T+8\nTNBZcqdqqtlbFQI8lU7EeIvwfwKBgQDQztRW7JMhhwjsCNCuIwelVozvtUchOKAj\nM06s4ZUNpbCh7OuCtdLPSwHGpH4V+RrV2y0JOVJRhzPwqmneMBKfM+kMXZDk9F7W\nZd47VAMvGoAhzzm25cUZ+QD0Op9s7cOVX9ZcC6O+Qe1yqch2pNyEED95s7zeZmku\nxvO+LILjHQKBgFE4/shCl/VA7GwQ3rta/U1HoTkR3TJYORhKrYtT1zX9LWb9+DyO\nXIlMg/ZJCp9nb8Ifsjrs2wPlNW+2DWua1TMh6X+DKasdOtD4CQi7LSxjA3EqzTnI\nGVJQ+0WTEOAgFB/0LDqWI9sRKFR8koyDGqei/lFb1KPnVtoLLYeBw+m/AoGAG61+\nyfLb4dLTZO4aMyrjhY/+aHu/7PBjkaboY9QW/NMcoaoU4aOWSPHpT1pYeDMn0ncV\n9iYJ+lKQmPMNy2zV2xJ3brMsVJzrwUGJfpW5QlIh79lXDh5QzQuLi9QFc9vkU/V7\nJYJJdxuoDM3ii494x2yb7VbczyIGCTRH9MpToyUCgYB3Evb8XASVEWqDXxQNQEyf\nAOBi9xDW3HL+c0Fuq/tdTBrTPdd9Rqave3L4MxHROhbrHSOd9ooHgJSlaCrdp2rI\nDx2YSI8gU929W1SbvIyAtPabb4EBVw2fyDdkGLuCJBcvRIYL8jky77mi4yGHe2/X\nOACafPQHeOwiZMCeQXwhGA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@manajemen-solar.iam.gserviceaccount.com",
+  "client_id": "117562325827390936495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40manajemen-solar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
